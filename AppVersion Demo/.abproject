@@ -42,12 +42,7 @@
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
   ],
-<<<<<<< HEAD
   "Framework": "Cordova",
   "WP8WindowsPublisherName": "CN=Telerik",
   "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.appversion"
 }
-=======
-  "Framework": "Cordova"
-}
->>>>>>> branch 'master' of https://github.com/Telerik-Verified-Plugins/AppVersion-DemoApp
