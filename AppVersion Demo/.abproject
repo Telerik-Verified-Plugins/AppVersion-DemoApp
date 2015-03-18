@@ -1,5 +1,5 @@
 {
-  "ProjectName": "Facebook",
+  "ProjectName": "AppVersion",
   "ProjectGuid": "b3d6b9dd-d1f4-4db9-a07d-b7e4088bb60e",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.plugindemo.appversion",
@@ -42,7 +42,12 @@
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
   ],
+<<<<<<< HEAD
   "Framework": "Cordova",
   "WP8WindowsPublisherName": "CN=Telerik",
   "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.appversion"
 }
+=======
+  "Framework": "Cordova"
+}
+>>>>>>> branch 'master' of https://github.com/Telerik-Verified-Plugins/AppVersion-DemoApp
