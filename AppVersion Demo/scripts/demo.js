@@ -6,8 +6,40 @@
 
         getVersion: function () {
             if (!this.checkSimulator()) {
-                cordova.getAppVersion(function(version) {
-                    alert(version);
+                cordova.getAppVersion(function(value) {
+                    alert(value);
+                });
+            }
+        },
+
+        getPackageName: function () {
+            if (!this.checkSimulator()) {
+                cordova.getAppVersion.getPackageName(function(value) {
+                    alert(value);
+                });
+            }
+        },
+      
+        getAppName: function () {
+            if (!this.checkSimulator()) {
+                cordova.getAppVersion.getAppName(function(value) {
+                    alert(value);
+                });
+            }
+        },
+
+        getVersionNumber: function () {
+            if (!this.checkSimulator()) {
+                cordova.getAppVersion.getVersionNumber(function(value) {
+                    alert(value);
+                });
+            }
+        },
+
+        getVersionCode: function () {
+            if (!this.checkSimulator()) {
+                cordova.getAppVersion.getVersionCode(function(value) {
+                    alert(value);
                 });
             }
         },

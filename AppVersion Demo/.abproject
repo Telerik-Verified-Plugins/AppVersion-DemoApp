@@ -1,12 +1,12 @@
 {
-  "ProjectName": "AppVersion",
+  "ProjectName": "AppVersion Demo",
   "ProjectGuid": "b3d6b9dd-d1f4-4db9-a07d-b7e4088bb60e",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.plugindemo.appversion",
   "DisplayName": "AppVersion Plugin Demo",
   "Author": "Telerik",
   "Description": "AppVersion",
-  "BundleVersion": "1.0.5",
+  "BundleVersion": "1.0.6",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
